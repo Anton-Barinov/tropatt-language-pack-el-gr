@@ -1,0 +1,31 @@
+<?php
+declare(strict_types=1);
+
+return array (
+  'list' => 'Dependency list',
+  'created' => 'Dependency created',
+  'deleted' => 'Dependency deleted',
+  'not_found' => 'Dependency not found',
+  'task_not_found' => 'One of the εργασίες was not found',
+  'invalid_type' => 'Invalid dependency τύπος',
+  'supported_types' => 'Supported: FS, SS, FF, SF, BLOCKS',
+  'self_forbidden' => 'εργασία cannot depend on itself',
+  'different_projects' => 'Dependencies can only be created between εργασίες in the same έργο',
+  'empty' => 'No dependencies',
+  'th_type' => 'Τύπος',
+  'th_task' => 'εργασία',
+  'btn_delete' => 'Διαγραφή',
+  'load_error' => 'Failed to load dependencies',
+  'prompt_task_id' => 'εργασία ID (public_id)',
+  'task_id_empty' => 'εργασία ID cannot be empty',
+  'prompt_dep_type' => 'Dependency τύπος (FS, SS, FF, SF)',
+  'created_notify' => 'Dependency added',
+  'confirm_delete' => 'διαγραφή dependency?',
+  'deleted_notify' => 'Dependency deleted',
+  'type_fs' => 'Finish-Start',
+  'type_ss' => 'Start-Start',
+  'type_ff' => 'Finish-Finish',
+  'type_sf' => 'Start-Finish',
+  'type_blocks' => 'Blocks',
+  'cyclic_dependency' => 'Dependency would δημιουργία a cycle between εργασίες',
+);

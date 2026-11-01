@@ -1,0 +1,31 @@
+<?php
+declare(strict_types=1);
+
+return array (
+  'dashboard' => 'Πίνακας ελέγχου',
+  'ideas' => 'Ideas',
+  'tasks' => 'Εργασίες',
+  'day' => 'My day',
+  'week' => 'My εβδομάδα',
+  'kanban' => 'Kanban',
+  'gantt' => 'Gantt',
+  'projects' => 'Έργα',
+  'calendar' => 'Ημερολόγιο',
+  'counterparties' => 'Counterparties',
+  'teams' => 'Ομάδες',
+  'knowledge' => 'Βάση γνώσεων',
+  'analytics' => 'Αναλύσεις',
+  'notifications' => 'Ειδοποιήσεις',
+  'admin' => 'Διαχείριση',
+  'intake' => 'Intake',
+  'cycles' => 'Cycles (Sprints)',
+  'project_modules' => 'έργο μονάδες',
+  'admin_estimates' => 'εργασία Estimates',
+  'admin_modules' => 'μονάδες',
+  'chat' => 'Συνομιλίες',
+  'docs' => 'Documentation',
+  'api' => 'Documentation',
+  'my_earnings' => 'My earnings',
+  'rate_cards' => 'Rate cards',
+  'menu_loaded' => 'Menu loaded',
+);

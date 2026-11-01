@@ -1,0 +1,16 @@
+{
+    "type": "language_pack",
+    "name": "language-pack-el-gr",
+    "full_code": "crm.language-pack-el-gr",
+    "vendor": "crm",
+    "code": "el-gr",
+    "title": "Greek Language Pack (Ελληνικά)",
+    "native_name": "Ελληνικά",
+    "direction": "ltr",
+    "author": "Anton Barinov",
+    "version": "1.0.0",
+    "category": "localization",
+    "min_crm_version": "20260928.001",
+    "description": "Πλήρης ελληνική μετάφραση του TropaTT CRM.",
+    "signature": "2cb42ffe9f6b621f61defe23f3a95d4cda2d95a646a46846711686df0c9894c0"
+}

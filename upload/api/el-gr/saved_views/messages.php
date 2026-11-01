@@ -1,0 +1,33 @@
+<?php
+declare(strict_types=1);
+
+return array (
+  'loading' => 'Φόρτωση…',
+  'load_error' => 'φόρτωση σφάλμα',
+  'empty' => 'No αποθηκεύτηκε views',
+  'pinned' => 'Pinned',
+  'other' => 'Others',
+  'system' => 'System',
+  'public' => 'Public',
+  'private' => 'Private',
+  'pin' => 'Pin',
+  'unpin' => 'Unpin',
+  'duplicate' => 'Duplicate',
+  'edit' => 'Επεξεργασία',
+  'archive' => 'Archive',
+  'applied' => 'View applied:',
+  'apply_error' => 'σφάλμα applying view',
+  'save_as' => 'αποθήκευση as νέο view',
+  'edit_title' => 'επεξεργασία view',
+  'title_required' => 'Enter a view όνομα',
+  'update_error' => 'σφάλμα updating view',
+  'create_error' => 'σφάλμα creating view',
+  'pinned_msg' => 'Pinned',
+  'unpinned_msg' => 'Unpinned',
+  'pin_error' => 'Σφάλμα',
+  'duplicated' => 'View duplicated',
+  'duplicate_error' => 'σφάλμα duplicating',
+  'confirm_archive' => 'Archive this view?',
+  'archived' => 'View archived',
+  'archive_error' => 'σφάλμα archiving',
+);

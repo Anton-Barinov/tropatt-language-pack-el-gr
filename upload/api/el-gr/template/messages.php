@@ -1,0 +1,33 @@
+<?php
+declare(strict_types=1);
+
+return array (
+  'task_list' => 'εργασία template list',
+  'task_created' => 'εργασία template created',
+  'task_detail' => 'εργασία template',
+  'task_updated' => 'εργασία template updated',
+  'task_deleted' => 'εργασία template deleted',
+  'project_list' => 'έργο template list',
+  'project_created' => 'έργο template created',
+  'project_detail' => 'έργο template',
+  'project_updated' => 'έργο template updated',
+  'project_deleted' => 'έργο template deleted',
+  'max_255' => 'Maximum 255 characters',
+  'payload_object' => 'payload field must be an object',
+  'not_found' => 'Template not found',
+  'empty_tasks' => 'No εργασία templates',
+  'empty_projects' => 'No έργο templates',
+  'load_error_tasks' => 'Failed to load εργασία templates',
+  'load_error_projects' => 'Failed to load έργο templates',
+  'btn_delete' => 'Διαγραφή',
+  'created_task_notify' => 'εργασία template created',
+  'created_project_notify' => 'έργο template created',
+  'error_create' => 'δημιουργία σφάλμα',
+  'confirm_delete_task' => 'διαγραφή εργασία template?',
+  'confirm_delete_project' => 'διαγραφή έργο template?',
+  'deleted_task_notify' => 'εργασία template deleted',
+  'deleted_project_notify' => 'έργο template deleted',
+  'error_delete' => 'διαγραφή σφάλμα',
+  'task_applied' => 'εργασία created from template',
+  'project_applied' => 'έργο created from template',
+);
